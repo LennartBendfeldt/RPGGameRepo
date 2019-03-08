@@ -59,7 +59,7 @@ if((x_frame + (anim_speed/60)) < anim_length){
 } else {
 	
 	x_frame = 1;
-	
 }
 
 #endregion
+

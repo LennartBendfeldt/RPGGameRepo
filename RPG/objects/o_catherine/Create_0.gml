@@ -1,14 +1,4 @@
-w_spd = 1;
-n_spd = 2;
-r_spd = 4;
-
-spd = n_spd;
-
-x_frame = 1;
-y_frame = 8;
-
-x_offset = sprite_get_xoffset(mask_index);
-y_offset = sprite_get_yoffset(mask_index);
+event_inherited();
 
 s_base = s_base_female_darkelf;
 s_torso = s_torso_female_chestplate;
